@@ -2,7 +2,7 @@
 
 1. Now it is time to access your development environment. Right click on below 'Developer Workspace' button and open it in a new tab, to access your environment! 
 
-[![dev](codenvy-contribute.svg)](http://OCCS_IP/dashboard/#/ide/che/White)
+[![dev](codenvy-contribute.svg)](http://140.86.33.254/dashboard/#/ide/che/White)
 
 You should now have access to something similair as below, make sure that your project in the Project Explorer matches the color of your squad.
 
@@ -18,11 +18,11 @@ It is now time to select your weapon of choice.
 
 | Weapon        | Password     | Git Clone Command  |
 | ------------- |-------------| -----|
-| Node.js 1      | Handed out | ``` git clone https://lisa.jones@REPLACENode1.git White/Node1 ``` |
-| Java SE 1     | Handed out      |   ``` git clone https://lisa.jones@REPLACEJava1.git White/Java1 ``` |
-| Node.js 2    | Handed out | ``` git clone https://lisa.jones@REPLACENode2.git White/Node2 ``` |
-| Java SE 2    | Handed out      |   ``` git clone https://lisa.jones@REPLACEJava2.git White/Java2 ``` |
-| PHP | Handed out      |  ``` git clone https://lisa.jones@REPLACEPHP.git White/PHP ``` |
+| Node.js 1      | Handed out | ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer69070-gse00000516/s/developer69070-gse00000516_dev-star_8230/scm/Node1.git White/Node1 ``` |
+| Java SE 1     | Handed out      |   ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer69070-gse00000516/s/developer69070-gse00000516_dev-star_8230/scm/Java1.git White/Java1 ``` |
+| Node.js 2    | Handed out | ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer69070-gse00000516/s/developer69070-gse00000516_dev-star_8230/scm/Node2.git White/Node2 ``` |
+| Java SE 2    | Handed out      |   ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer69070-gse00000516/s/developer69070-gse00000516_dev-star_8230/scm/Java2.git White/Java2 ``` |
+| PHP | Handed out      |  ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer69070-gse00000516/s/developer69070-gse00000516_dev-star_8230/scm/PHP.git White/PHP ``` |
 
 2. Copy the preferred Weapon's Git Clone Command from above. Discuss with your squad members to make sure you are not using the same one! 
 

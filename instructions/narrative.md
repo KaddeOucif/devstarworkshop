@@ -22,4 +22,4 @@ You work together in squads with the common goal to defeat the Alien War Ship. A
 
 The points are obtained as your squad completes the missions. The sooner your team completes a mission, the more points you will get. But don't worry, also the last squad to complete a mission will give valuable damage to the Alien War Ship.
 
-### [Click here to select your squad!](squadSelection4teams.md) ###
+### [Click here to select your squad!](squadSelection6teams.md) ###

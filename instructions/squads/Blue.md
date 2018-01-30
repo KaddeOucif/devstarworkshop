@@ -2,7 +2,7 @@
 
 1. Now it is time to access your development environment. Right click on below 'Developer Workspace' button and open it in a new tab, to access your environment! 
 
-[![dev](codenvy-contribute.svg)](http://OCCS_IP/dashboard/#/ide/che/Blue)
+[![dev](codenvy-contribute.svg)](http://140.86.33.254/dashboard/#/ide/che/Blue)
 
 You should now have access to something similair as below, make sure that your project in the Project Explorer matches the color of your squad.
 
@@ -18,11 +18,11 @@ It is now time to select your weapon of choice.
 
 | Weapon        | Password     | Git Clone Command  |
 | ------------- |-------------| -----|
-| Node.js 1      | Handed out | ``` git clone https://lisa.jones@REPLACENode1.git Blue/Node1 ``` |
-| Java SE 1     | Handed out      |   ``` git clone https://lisa.jones@REPLACEJava1.git Blue/Java1 ``` |
-| Node.js 2    | Handed out | ``` git clone https://lisa.jones@REPLACENode2.git Blue/Node2 ``` |
-| Java SE 2    | Handed out      |   ``` git clone https://lisa.jones@REPLACEJava2.git Blue/Java2 ``` |
-| PHP | Handed out      |  ``` git clone https://lisa.jones@REPLACEPHP.git Blue/PHP ``` |
+| Node.js 1      | Handed out | ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer63772-gse00010241/s/developer63772-gse00010241_dev-star_8234/scm/Node1.git Blue/Node1 ``` |
+| Java SE 1     | Handed out      |   ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer63772-gse00010241/s/developer63772-gse00010241_dev-star_8234/scm/Java1.git Blue/Java1 ``` |
+| Node.js 2    | Handed out | ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer63772-gse00010241/s/developer63772-gse00010241_dev-star_8234/scm/Node2.git Blue/Node2 ``` |
+| Java SE 2    | Handed out      |   ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer63772-gse00010241/s/developer63772-gse00010241_dev-star_8234/scm/Java2.git Blue/Java2 ``` |
+| PHP | Handed out      |  ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer63772-gse00010241/s/developer63772-gse00010241_dev-star_8234/scm/PHP.git Blue/PHP ``` |
 
 2. Copy the preferred Weapon's Git Clone Command from above. Discuss with your squad members to make sure you are not using the same one! 
 
